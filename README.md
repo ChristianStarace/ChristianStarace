@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ChristianStarace and currently I am doing an internship on Robotics.
+- 🌱 I’m currently learning how to use ROS, and this profile is for only for help me practice.
