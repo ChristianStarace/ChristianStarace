@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ChristianStarace and currently I am doing an internship on Robotics.
+- 👋 Hi, I’m @ChristianStarace and currently I am doing an internship at the mobile robotics department of the match institute at Leibniz University Hanover.
 - 🌱 I’m currently learning how to use ROS, and this profile is for only for help me practice.
